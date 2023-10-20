@@ -7,15 +7,18 @@
     box-sizing: border-box;
 }
 
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-family: "Audiowide", sans-serif;
+    color: #ffffff
+
+}
 header {
     background-color: #A4CBC1;
-        padding: 0 1rem;
-        position: relative;
-        z-index: 99;
-        width: 100%;
         
-        display: flex;
-        justify-content: space-between;
+
         
 }
 
@@ -23,6 +26,8 @@ h1,
 h3{
     font-family: "Audiowide", sans-serif;
      color: #ffffff;
+     letter-spacing: 1px;
+     text-align: center;
 }
 
 header a{
@@ -34,10 +39,8 @@ main{
     /*make the main elelemt take the adecuate space to push footer down*/
         flex: 1 0 auto;
         /* Add margin at the top to prevent content from being covered by the header */
-        margin-top: 30px;
-        /* Enable flex properties for child elements */
-         display: flex;
-         flex-direction: column;
+        margin-top: 10px;
+    
 }
 
 footer{
