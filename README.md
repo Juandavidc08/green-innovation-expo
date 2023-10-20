@@ -1,4 +1,4 @@
-![CI logo]()
+![CI logo](assets/images/Logo.png)
 
 Green Innovation Expo.
 Exposition and open house in Barcelona, Spain.
