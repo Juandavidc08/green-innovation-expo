@@ -12,38 +12,56 @@ body{
     display: flex;
     flex-direction: column;
     font-family: "Audiowide", sans-serif;
-    color: #ffffff
 
 }
 header {
     background-color: #A4CBC1;
-        
-
+    padding: 0 1rem;
+    z-index: 99;
+    width: 100%;
+    box-shadow:0 2px 2px #3a3a3a;
         
 }
 
 h1,
 h3{
     font-family: "Audiowide", sans-serif;
-     color: #ffffff;
+     color: #3a3a3a;
      letter-spacing: 1px;
-     text-align: center;
+     text-align:justify;
 }
 
+h3 {
+    font-size: x-small;
+}
 header a{
     text-decoration: none;
     color: inherit;
 }
 
-main{
+#menu{
+
+    font-size: 110%;
+    letter-spacing: 2px;
+    list-style-type: none;
+}
+
+#menu > li{
+    margin-bottom: 0.5em;
+}
+
+.active{
+    border-bottom: 2px dashed #312b2b;
+}
+main {
     /*make the main elelemt take the adecuate space to push footer down*/
         flex: 1 0 auto;
         /* Add margin at the top to prevent content from being covered by the header */
-        margin-top: 10px;
+        margin-top: 47px;
     
 }
 
-footer{
+footer {
     background-color: aqua;
     justify-content: flex-end;
 }
