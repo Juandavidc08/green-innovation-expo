@@ -17,6 +17,7 @@ body{
 header {
     background-color: #A4CBC1;
     padding: 0 1rem;
+    position: fixed;
     z-index: 99;
     width: 100%;
     box-shadow:0 2px 2px #3a3a3a;
@@ -67,7 +68,7 @@ nav{
     padding: 0 1rem;
     box-shadow: 0 2px 2px #3a3a3a;
     display: none;
-    top: 12.5%;
+    top: 100%;
 
 }
 
@@ -88,7 +89,7 @@ main {
     /*make the main elelemt take the adecuate space to push footer down*/
         flex: 1 0 auto;
         /* Add margin at the top to prevent content from being covered by the header */
-        margin-top: 47px;
+        margin-top: 90px;
     
 }
 
