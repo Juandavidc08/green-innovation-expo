@@ -24,3 +24,5 @@ Validation testing
 Deployment
 
 Credits
+favicon image
+<https://favicon.io/emoji-favicons/house-with-garden>
