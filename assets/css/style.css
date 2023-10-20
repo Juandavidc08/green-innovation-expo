@@ -15,7 +15,7 @@ body{
 
 }
 header {
-    background-color: #A4CBC1;
+    background-color: #E0FAD4;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -62,7 +62,7 @@ header a{
 
 nav{
     position:absolute;
-    background-color: #A4CBC1 ;
+    background-color: #E0FAD4 ;
     width: 100%;
     left: 0;
     padding: 0 1rem;
