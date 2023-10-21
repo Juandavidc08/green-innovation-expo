@@ -58,6 +58,14 @@ header a{
     border-bottom: 2px dashed #312b2b;
 }
 
+/* Hero image */
+
+#hero{
+    width: 600px;
+    height: 100%;
+    background:url("../image/heroimage.jpg");
+}
+
 /* Nav bar with drop down toggle*/
 
 nav{
