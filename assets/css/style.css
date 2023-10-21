@@ -96,10 +96,23 @@ main {
 }
 
 footer {
-    background-color: aqua;
+    background-color: #BBEDA4;
     justify-content: flex-end;
 }
 
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+
+}
+
+#social-network li {
+    font-size: 260%;
+    padding: 5%;
+}
 /* Media query: tablets and larger (768px and up)*/
 @media screen and (min-width:768px){
 
