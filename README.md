@@ -26,3 +26,8 @@ Deployment
 Credits
 favicon image
 <https://favicon.io/emoji-favicons/house-with-garden>
+palletes
+color.co
+font awesome
+for icons
+
