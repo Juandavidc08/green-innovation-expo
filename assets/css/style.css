@@ -85,6 +85,19 @@ header a {
    
 }
 
+#activities{
+    background-color: rgba(210, 191, 109, .7);
+    font-size: 110%;
+    text-align: center;
+    position: absolute;
+    bottom:  100px;
+    width: 100%;
+    min-height:100px;
+    padding-top:10px;
+    padding-left:10px;
+    letter-spacing: 2px;
+}
+
 
 /* Nav bar with drop down toggle*/
 
@@ -149,6 +162,13 @@ footer {
 #cover-text{
     width: 450px;
     font-size: 150%;
+}
+
+#activities{
+    width: 600px;
+    right: 20px;
+    font-size: 150%;
+
 }
 
 }
