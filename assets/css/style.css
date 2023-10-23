@@ -37,9 +37,6 @@ h1 {
 
 }
 
-h3 {
-    font-size: x-small;
-}
 
 header a {
     text-decoration: none;
@@ -68,7 +65,26 @@ header a {
     width: 100%;
     height: 800px;
     background: url("../images/heroimage.jpg") no-repeat center;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    position:relative;
 }
+
+#cover-text{
+    background-color: rgba(179, 210, 109, .7);
+    font-size: 120%;
+    text-align: center;
+    position: absolute;
+    top: 50px;
+    width: 80%;
+    min-height:200px;
+    padding-top:40px;
+    padding-left:10px;
+    letter-spacing: 2px;
+   
+}
+
 
 /* Nav bar with drop down toggle*/
 
@@ -130,6 +146,9 @@ footer {
 /* Media query: tablets and larger (768px and up)*/
 @media screen and (min-width:768px) {
 
-    nav {}
+#cover-text{
+    width: 450px;
+    font-size: 150%;
+}
 
 }
