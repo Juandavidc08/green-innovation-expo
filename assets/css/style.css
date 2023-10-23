@@ -200,6 +200,13 @@ footer {
     padding: 5%;
 }
 
+/*Media query: large or landscape phones (576px and up)*/
+@media screen and (min-width: 576px) {
+    #photos {
+        column-count: 2;
+        column-gap: 0;
+    }
+}
 
 /* Media query: tablets and larger (768px and up)*/
 @media screen and (min-width:768px) {
@@ -227,6 +234,10 @@ footer {
     font-size:120%;
     width: 500px;
 }
+/*Gallery*/
+#photos {
+        column-count: 3;
+}
 
 }
 
@@ -241,5 +252,10 @@ footer {
 dates{
     font-size:120%;
     width: 800px;}
+
+/*Gallery*/
+#photos {
+        column-count: 4;
+}
 
 }
