@@ -235,6 +235,12 @@ footer {
     width: 500px;
 }
 /*Gallery*/
+#gallery-title{
+    width: 100%;
+    min-height:50px;
+    font-size:180%;
+    
+
 #photos {
         column-count: 3;
 }
