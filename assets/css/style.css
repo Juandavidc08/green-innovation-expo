@@ -98,6 +98,20 @@ header a {
     letter-spacing: 2px;
 }
 
+#expo-image{
+    background: url("../images/sagrada-familia.jpg") no-repeat top center/ cover;
+    width: 80vw;
+    height: 80vw;
+    margin-bottom:20px;
+    top: 300px;
+    right: 5px;
+    position: absolute;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: rgba(210, 191, 109, .7);
+
+}
+
 
 /* Nav bar with drop down toggle*/
 
@@ -170,5 +184,20 @@ footer {
     font-size: 150%;
 
 }
+
+#expo-image{
+    width: 35vw;
+    height: 35vw;
+    right: 20px;
+}
+
+}
+
+/*larger devices (laptops and desktops, 992px and up)*/
+@media screen and (min-width: 992px) {
+#expo-image{
+    width: 20vw;
+    height:20vw;
+    right: 100px;
 
 }
