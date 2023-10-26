@@ -232,8 +232,10 @@ footer {
     padding: 0 5px;
 }
 
-#radio-buttons {
+.radio-buttons {
     width: 100%;
+    letter-spacing: 1px;
+    font-size: 85%;
 }
 
 .submit-button {
