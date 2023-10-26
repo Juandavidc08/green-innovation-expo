@@ -311,4 +311,15 @@ dates{
         column-count: 3;
 }
 
+/*Sing-up Page*/
+ #signup {
+     background-position: cover;
+     position: relative;
+ }
+  #signup-form {
+      width: 500px;
+      position: absolute;
+      left: 10%;
+      top: 150px;
+  }
 }
