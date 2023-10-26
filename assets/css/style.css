@@ -208,9 +208,34 @@ footer {
     height: 500px;
     background-position: 100%;
     
-    
 }
 
+#singup-form {
+    color: #ffffff;
+    background-color: rgba(60, 60, 60, .7);
+    padding: 30px;
+}
+
+#singup-form>h2 {
+    color: #fafafa;
+    margin-bottom: 30px;
+    letter-spacing: 2px;
+}
+
+.text-input {
+    background: #3a3a3a;
+    color: #fafafa;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+    height: 25px;
+    width: 100%;
+    padding: 0 5px;
+}
+
+#radio-buttons {
+    width: 100%;
+
+}
 /*Media query: large or landscape phones (576px and up)*/
 @media screen and (min-width: 576px) {
     #photos {
