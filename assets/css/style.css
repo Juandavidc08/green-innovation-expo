@@ -234,8 +234,18 @@ footer {
 
 #radio-buttons {
     width: 100%;
-
 }
+
+.submit-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    background-color: rgba(179, 210,109,.7);
+    color: #fafafa;
+    font-size: 100%;
+    padding: 10px 30px;
+}
+
+
 /*Media query: large or landscape phones (576px and up)*/
 @media screen and (min-width: 576px) {
     #photos {
