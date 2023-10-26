@@ -240,11 +240,10 @@ footer {
     min-height:50px;
     font-size:180%;
     
-
-#photos {
+}
+#photos { 
         column-count: 3;
 }
-
 }
 
 /*larger devices (laptops and desktops, 992px and up)*/
