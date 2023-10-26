@@ -194,6 +194,30 @@ main {
     font-size: 200%;
 }
 
+.general-info{
+    text-align:center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+
+.general{
+    background:rgba(179, 210, 109, .7)
+
+}
+
+.general h2{
+    font-size: 130%;
+    color: white;
+    background-color: #151922;
+    padding: 1em;
+}
+
+.general p {
+    padding: 1em;
+}
+
 /*Galery Page*/
 #gallery-title{
     background-color:rgba(179, 210, 109, .7);
@@ -308,6 +332,13 @@ footer {
 #dates{
     font-size:120%;
     width: 500px;
+}
+/*Info page*/
+.general-info {
+   
+    flex-direction: row;
+    justify-content: space-around;
+
 }
 /*Gallery*/
 #gallery-title{
