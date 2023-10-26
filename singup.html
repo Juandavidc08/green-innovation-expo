@@ -39,7 +39,33 @@
         </nav>
     </header>
     <main>
-        <h3> Exposition and Open house 2023</h3>
+        <section id="singup">
+            <form action="https://formdump.codeinstitute.net" id="singup-form" method="post">
+                <h2><i class="fa-solid fa-user-plus fa-beat"></i>Signed up! lets enjoy!</h2>
+                <label for="first_name">First Name</label>
+                <input type="text" id="first_name" name="first_name" class="text-input" required>
+                <br>
+                <label for="last_name">Last Name</label>
+                <input type="text" id="last_name" name="last_name" class="text-input" required>
+                <br>
+                <label for="email_address">Email Address</label>
+                <input type="email" id="email_address" name="email_address" class="text-input" required>
+                <br>
+                <div class="radio-buttons">
+                    <div>
+                        <label for="exposition">Im just going to the exposition</label>
+                        <input type="radio" name="singup-preference" id="exposition" value="exposition" required checked>
+        
+                        <label for="newsletter">Can't go this time, but subscribe me to the monthly newsletter</label>
+                        <input type="radio" name="singup-preference" id="newsletter" value="newsletter" required>
+        
+                        <label for="both">Im goint to the Expo and want to suscribe to the newsletter</label>
+                        <input type="radio" name="running-preference" id="both" value="both" required>
+                    </div>
+        
+                </div>
+        
+                <button type="submit" class="submit-button">Submit!</button>
     </main>
     <footer>
         <ul id="social-networks">
