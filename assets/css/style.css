@@ -359,6 +359,14 @@ footer {
     justify-content: space-around;
 
 }
+#top-view p {
+    font-size: 250%;
+}
+
+#top-view h1{
+    font-size: 600%
+}
+
 /*Gallery*/
 #gallery-title{
     width: 100%;
@@ -373,7 +381,9 @@ footer {
 
 /*larger devices (laptops and desktops, 992px and up)*/
 @media screen and (min-width: 992px) {
-#expo-image{
+
+
+ #expo-image{
     width: 20vw;
     height:20vw;
     right: 200px;
