@@ -343,9 +343,10 @@ footer {
 }
 
 #expo-image{
-    width: 35vw;
-    height: 35vw;
+    width: 45vw;
+    height: 45vw;
     right: 100px;
+    top: 350px;
 }
 
 #dates{
