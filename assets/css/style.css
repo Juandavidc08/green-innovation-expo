@@ -378,6 +378,22 @@ footer {
 #photos { 
         column-count: 3;
 }
+
+/*Sing-up page*/
+#singup h2{
+    font-size: 300%;
+
+}
+#singup label{
+    font-size: 200%;
+}
+.radio-buttons {
+    font-size: 100%;
+}
+
+.submit-button{
+    font-size: 250%;
+}
 }
 
 /*larger devices (laptops and desktops, 992px and up)*/
