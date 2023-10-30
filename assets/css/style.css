@@ -270,7 +270,7 @@ footer {
 /*Sing-up Page*/
 
 #singup{
-    background: url("../images/greendesign.jpg");
+    background: url("../images/singupimages.jpg");
     width:100%;
     height: 500px;
     background-position: 100%;
@@ -406,7 +406,7 @@ footer {
     right: 200px;
 
 }
-dates{
+#dates{
     font-size:120%;
     width: 800px;}
 
