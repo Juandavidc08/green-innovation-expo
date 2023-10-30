@@ -380,6 +380,10 @@ footer {
 }
 
 /*Sing-up page*/
+#singup{
+    height: 1000px;
+}
+
 #singup h2{
     font-size: 300%;
 
