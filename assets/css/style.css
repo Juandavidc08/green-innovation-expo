@@ -411,7 +411,7 @@ footer {
 }
  #expo-image{
     width: 20vw;
-    height:20vw;
+    height: 20vw;
     right: 300px;
 
 }
@@ -427,7 +427,7 @@ footer {
 #activities{
     font-size: 180%;
     width: 900px;
-    bottom: 230px;
+    bottom: 130px;
 }
 
 /*Gallery*/
@@ -449,11 +449,11 @@ footer {
   }
 
   #social-networks {
-      padding: 1px;
+      padding: 5px;
 
   }
   #social-networks li {
       font-size: 200%;
-      padding: 1px;
+      padding: 5px;
   }
 }
