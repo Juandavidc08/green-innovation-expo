@@ -18,7 +18,7 @@ body {
 
 header {
     background-color: #151922;
-    padding: 0 1rem;
+    padding: 20px 1rem;
     position: fixed;
     z-index: 99;
     width: 100%;
@@ -328,6 +328,9 @@ footer {
 /* Media query: tablets and larger (768px and up)*/
 @media screen and (min-width:768px) {
 
+h1{
+    font-size: 300%;
+}
 
 #hero{
     height: 1000px;
@@ -449,11 +452,11 @@ footer {
   }
 
   #social-networks {
-      padding: 5px;
+      padding: 10px;
 
   }
   #social-networks li {
       font-size: 200%;
-      padding: 5px;
+      padding: 10px;
   }
 }
