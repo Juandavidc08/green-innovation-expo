@@ -248,24 +248,7 @@ main {
 #photos{
     line-height: 0;
 }
-footer {
-    background-color: #151922;
-    justify-content: flex-end;
-}
 
-#social-networks {
-    text-align: center;
-    padding: 20px 0;
-    display: flex;
-    justify-content: space-evenly;
-    list-style-type: none;
-
-}
-
-#social-networks li {
-    font-size: 150%;
-    padding: 5%;
-}
 
 /*Sing-up Page*/
 
@@ -314,6 +297,24 @@ footer {
     padding: 10px 30px;
 }
 
+footer {
+    background-color: #151922;
+    justify-content: flex-end;
+}
+
+#social-networks {
+    text-align: center;
+    padding: 5px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+
+}
+
+#social-networks li {
+    font-size: 150%;
+    padding: 5%;
+}
 
 /*Media query: large or landscape phones (576px and up)*/
 @media screen and (min-width: 576px) {
@@ -429,5 +430,14 @@ footer {
       position: absolute;
       left: 10%;
       top: 150px;
+  }
+
+  #social-networks {
+      padding: none;
+
+  }
+  #social-networks li {
+      font-size: 200%;
+      padding: none;
   }
 }
