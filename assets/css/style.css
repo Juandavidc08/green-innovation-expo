@@ -438,9 +438,10 @@ footer {
  #signup {
      background-position: cover;
      position: relative;
+    
  }
   #signup-form {
-      width: 500px;
+      width: 600px;
       position: absolute;
       left: 10%;
       top: 150px;
