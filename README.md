@@ -102,6 +102,15 @@ Position: Top of page.
   
 ![Response](documentation/responseimage.png)
   
+---
+## Tecnologies used
+
+- HTML: Foundation.
+- CSS: Style and layout.
+- Github: Host and deploy the code for the website.
+- Codeanywhere: Write and edit the code.
+
+
 
 Testing
 
