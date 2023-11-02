@@ -24,12 +24,29 @@ Forums, Ted talks, learning, activities and alot of fun.
 
 * As a Frequent visitor, I want to be able to share this information with my comminity, spread the information in an easy, practical and trusthwortypage. Also being able to generate more customers co atend the event.
 
+## Features
+
+### Navbar
+
+#### Navigation
+
+Position: Top of page.
+* Contains text logo of the event on the left and on the right one animated icon that dropdown the menu.
+* Dropdown menu contain:
+- Home
+- Info
+- Gallery
+- Sign-up
+* All link have animated hover effect
+
+![NavBar](documentation/navbar.png)
+![NavBar Open](documentation/navbar-open.png)
+
+* The navigation bar in responsive in all screens.
+
+---
 
 
-
-- Image with responsive design shown as the page looks
-
-Features
 
 Testing
 
