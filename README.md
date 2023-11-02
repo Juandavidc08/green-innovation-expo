@@ -63,6 +63,46 @@ Position: Top of page.
 * Footer contains animated social media link that open in a new tab
 
 ![footer](documentation/footer.png)
+
+---
+
+### Info
+
+* Info page have a hero image with a slogan of the event
+  ![Info-Slogan](documentation/infogogreen.png)
+  
+* It has two sections that describe the exact location, hours, dates and activites that will occur, with second section explaing what to expect of the event
+  ![Info-sections](documentation/infodivs.png)
+
+### Gallery
+
+* Gallery page is composed by a title introducing the exposition
+* Responsive gallery showing images that describe the exposition
+
+![Gallery-phone](documentation/galleryphone.png)
+![Gallery-ipad](documentation/galleryipad.png)
+
+---
+### Sign-up
+
+* The Sign-up page have a submition form that is responsive:
+* All inputs are set to be required
+* Text input are styles
+* A blur background
+* Animated Icon before the title
+
+-Two checkbox to decide if you want to assist to the expo or want go and also subscribe to a newsletter.
+
+![Sing-up](documentation/signupform.png)
+
+---
+### Response
+
+* The Response page appears after submitting the form to show that the information was delivered.
+  
+![Response](documentation/responseimage.png)
+  
+
 Testing
 
 Bugs
@@ -78,4 +118,6 @@ palletes
 color.co
 font awesome
 for icons
+responsive image page
+https://ui.dev/amiresponsive
 
