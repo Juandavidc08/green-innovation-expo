@@ -46,8 +46,23 @@ Position: Top of page.
 
 ---
 
+### Home Page - Hero Image
+
+* Content:
+- The main idea of the event
+- Dates and location
+- The background acts like a hero image
+- Picture of architecture landmark Sagrada Familia
+- Show the event on flyer type structure
 
 
+![Home Page](documentation/homepage.png)
+
+### Footer
+
+* Footer contains animated social media link that open in a new tab
+
+![footer](documentation/footer.png)
 Testing
 
 Bugs
