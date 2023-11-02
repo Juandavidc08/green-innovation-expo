@@ -34,13 +34,13 @@
                 <li><a href="index.html">Home</a></li>
                 <li><a href="info.html">Info</a></li>
                 <li><a href="gallery.html">Gallery</a></li>
-                <li><a href="singup.html"  class="active">Sing-Up</a></li>
+                <li><a href="singup.html" class="active">Sing-Up</a></li>
             </ul>
         </nav>
     </header>
     <main>
         <section id="singup">
-            <form action="https://formdump.codeinstitute.net" id="singup-form" method="post">
+            <form action="response.html" id="singup-form" method="get">
                 <h2><i class="fa-solid fa-user-plus fa-beat"></i>Signed up! lets enjoy!</h2>
                 <label for="first_name">First Name</label>
                 <input type="text" id="first_name" name="first_name" class="text-input" required>
@@ -54,18 +54,18 @@
                 <div class="radio-buttons">
                     <div>
                         <label for="exposition">Going to the Expo</label>
-                        <input type="radio" name="singup-preference" id="exposition" value="exposition" >
-                    <br>
+                        <input type="radio" name="singup-preference" id="exposition" value="exposition" required>
+                        <br>
                         <label for="newsletter">Going to the Expo and subscribe to Newsletter</label>
-                        <input type="radio" name="singup-preference" id="newsletter" value="newsletter" >
-        
+                        <input type="radio" name="singup-preference" id="newsletter" value="newsletter" required>
+
+                    </div>
                 </div>
-                </div>
-          
-        
-        
+
+
+
                 <button type="submit" class="submit-button">Submit!</button>
-                </form>
+            </form>
         </section>
     </main>
     <footer>
