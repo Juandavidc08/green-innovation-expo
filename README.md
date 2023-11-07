@@ -103,20 +103,85 @@ Position: Top of page.
 ![Response](documentation/responseimage.png)
   
 ---
-## Tecnologies used
+## Technologies used
 
 - HTML: Foundation.
 - CSS: Style and layout.
 - Github: Host and deploy the code for the website.
 - Codeanywhere: Write and edit the code.
 
+---
+## Testing
 
+* To confirm page was successfully functioning was teste in 3 diferent browsers: Chrome, Safari and Mozilla Firefox.
+  - Chrome: 
+    ![Chrome](documentation/chrome.png)
+  - Safari:
+    ![Chrome](documentation/safari.png)
+  - Firefox:
+    ![Chrome](documentation/firefox.png)
 
-Testing
+---
+## Manual Texting
+
+| feature | action | expected result | tested | passed | comments |
+| --- | --- | --- | --- | --- | --- |
+| Navbar | | | | | |
+| Home | Click on the "Home" link | The user is redirected to the main page | Yes | Yes | - |
+| Info | Click on the "Info" link | The user is redirected to the Info page | Yes | Yes | - |
+| Gallery | Click on the "Gallery" link | The user is redirected to the gallery page | Yes | Yes | - |
+| Sing-up | Click on the "Sing-up" link | The user is redirected to the Sing-up page | Yes | Yes | - |
+| Footer | | | | | |
+| Instagram icon in the footer | Click on the Instagram icon | The user is redirected to the Instagram page | Yes | Yes | - |
+| Twitter icon in the footer | Click on the Twitter icon | The user is redirected to the Twitter page | Yes | Yes | - |
+| YouTube icon in the footer | Click on the YouTube icon | The user is redirected to the YouTube page | Yes | Yes | - |
+| Sign-up page | | | | | |
+| First name input | Enter the first name | The first name is entered | Yes | Yes | If user doesn't enter the first name, the error message appears |
+| Last name input | Enter the last name | The last name is entered | Yes | Yes | If user doesn't enter the last name, the error message appears |
+| Email input | Enter the email | The email is entered | Yes | Yes | If user doesn't enter the email, the error message appears. If user enters not valid email, the error message appears |
+|Coming to the event checkbox | Click on the checkbox | The checkbox is checked | Yes | Yes | These checkboxes are required the user need to selct one to submit |
+| "Submit" button | Click on the "Submit" button | The user is redirected to the response page | Yes | Yes | - |
+
+---
+## Validator testing
+
+### HTML
+
+#### Home page
+
+No errors.
+![Home Page HTML Validator](documentation/validator-html-home.png)
+
+#### Info page
+
+No errors.
+![Info Page HTML Validator](documentation/validator-html-info.png)
+
+#### Gallery page
+
+No errors.
+![Gallery Page HTML Validator](documentation/validator-html-gallery.png)
+
+#### Sing-up page
+
+No errors.
+![Sing-up Page HTML Validator](documentation/validator-html-sing-up.png)
+
+#### Response page
+
+No errors.
+![Response Page HTML Validator](documentation/validator-html-response.png)
+
+### CSS
+
+No errors.
+![CSS Validator](documentation/validator-css.png)
+
+one warning in text area with the font imported: Imported style sheets are not checked in direct input and file upload modes.
+
 
 Bugs
 
-Validation testing 
 
 Deployment
 
