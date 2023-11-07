@@ -179,19 +179,57 @@ No errors.
 
 one warning in text area with the font imported: Imported style sheets are not checked in direct input and file upload modes.
 
+### Lighthouse
 
-Bugs
+### Bugs
 
+- Background image was not fitting resposive because of the size of the image.
+*Solution* First compress the image, still big but I can work on it using flexbox.
 
-Deployment
+- Nav Bar was not the proper size in large screens
+*solution* Easy solution, ajusting the padding in the media query I needed them to be bigger.
 
-Credits
-favicon image
-<https://favicon.io/emoji-favicons/house-with-garden>
-palletes
-color.co
-font awesome
-for icons
-responsive image page
-https://ui.dev/amiresponsive
+### Unsolved Bugs
+
+- None
+
+---
+## Deployment
+
+- The project was deployed to GitHub pages. 
+
+- The link can be found [here](https://juandavidc08.github.io/green-innovation-expo/index.html)
+
+## Future improvements
+
+- Add some personal created images that shows more specific the expo image
+- Improve the performace on lighthouse
+
+---
+
+## Credits
+
+### Content
+
+- Flexbox videos by Kevin Powell[Link](https://www.youtube.com/@KevinPowell)
+- A page that with the reaserch make me feel more creative [Link](https://css-tricks.com/)
+- I need to improve them but thismade me really undertand how to do a Readme File (https://github.com/IuliiaKonovalova/animal_shelter)
+
+### Media 
+
+- All images where tken from [Pexels](https://www.pexels.com/es-es/)
+
+- The favicon image was taken from [favicon](https://favicon.io/emoji-favicons/house-with-garden)
+
+- Icons animated and no animated where taken from [FontAwesome] (https://fontawesome.com/)
+
+- Responsive image photo was took from [ui](https://ui.dev/amiresponsive)
+
+---
+
+## Acknowledgments
+
+- [Aleksei Konovalov](https://github.com/lexach91) My mentor help me to redirect my focus on what is important.
+- [Code Institute](https://codeinstitute.net/) tutors and community that help me.
+- [Iuliia Konovalova](https://github.com/IuliiaKonovalova/animal_shelter) This Read me example let me undertand how a Read me works.
 
