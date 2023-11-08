@@ -199,6 +199,18 @@ one warning in text area with the font imported: Imported style sheets are not c
 
 ### Lighthouse
 
+- Home
+![Homelighthouse](documentation/lighthouse-home.png)
+
+- Info
+![Infolighthouse](documentation/lighthouse-info.png)
+
+- Gallery
+![Gallerylighthouse](documentation/lighthouse-gallery.png)
+
+- Sing-up
+ ![Singuplighthouse](documentation/lighthouse-sing-up.png)
+  
 ### Bugs
 
 - Background image was not fitting resposive because of the size of the image.
@@ -221,7 +233,7 @@ one warning in text area with the font imported: Imported style sheets are not c
 ## Future improvements
 
 - Add some personal created images that shows more specific the expo image
-- Improve the performace on lighthouse
+- Improve the performace of the webpage on lighthouse
 
 ---
 
