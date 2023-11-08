@@ -101,7 +101,23 @@ Position: Top of page.
 * The Response page appears after submitting the form to show that the information was delivered.
   
 ![Response](documentation/responseimage.png)
-  
+
+---  
+## Design
+
+### Wireframe
+
+- The design of the was to create a practical, easy and visual representation of the exposition.
+
+![HomeWireframe](documentation/wireframe-home.png)
+![InfoWireframe](documentation/wireframe-info.png)
+![GalleryWireframe](documentation/wireframe-gallery.png)
+![Sing-upWireframe](documentation/wireframe-sing-up.png)
+
+### Pallete/Colors
+
+![Pallete](documentation/colors.png)
+
 ---
 ## Technologies used
 
@@ -109,6 +125,8 @@ Position: Top of page.
 - CSS: Style and layout.
 - Github: Host and deploy the code for the website.
 - Codeanywhere: Write and edit the code.
+- Wireframe.cc Sketch the basic of the idea.
+- Coolors.co: Create Pallete.
 
 ---
 ## Testing
@@ -229,7 +247,6 @@ one warning in text area with the font imported: Imported style sheets are not c
 
 ## Acknowledgments
 
-- [Aleksei Konovalov](https://github.com/lexach91) My mentor help me to redirect my focus on what is important.
+- [Aleksei Konovalov](https://github.com/lexach91) My mentor that help me to redirect my focus on what is important.
 - [Code Institute](https://codeinstitute.net/) tutors and community that help me.
-- [Iuliia Konovalova](https://github.com/IuliiaKonovalova/animal_shelter) This Read me example let me undertand how a Read me works.
-
+- [Iuliia Konovalova](https://github.com/IuliiaKonovalova/animal_shelter) This ReadMe example is just an excellent study tool, I know there are inprovements in Green Innovation ReadME, but the structure of how its done its completly clear.
