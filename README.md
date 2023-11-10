@@ -6,6 +6,8 @@ Exposition and Open house 2023 in Barcelona, Spain.
 An event place to share and experience new ideas and projects that architects, engineers and designers are planning for a more sustainable and respectfull future for the world in where the cities are more involve with nature.
 Forums, Ted talks, learning, activities and alot of fun.
 
+[Link to Green Innovation Expo](https://juandavidc08.github.io/green-innovation-expo/index.html)
+
 ![Responsive Mockup](documentation/responsive-mockup.png)
 
 ---
@@ -117,16 +119,17 @@ Position: Top of page.
 ### Pallete/Colors
 
 ![Pallete](documentation/colors.png)
+-This Pallete of colors where chossen as a view point of the topic, thinking about :green, eco, nature.
 
 ---
 ## Technologies used
 
-- HTML: Foundation.
-- CSS: Style and layout.
-- Github: Host and deploy the code for the website.
-- Codeanywhere: Write and edit the code.
-- Wireframe.cc Sketch the basic of the idea.
-- Coolors.co: Create Pallete.
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML): Foundation.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): Style and layout.
+- [Github](https://github.com): Host and deploy the code for the website.
+* [Codeanywhere](https://app.codeanywhere.com): Write and edit the code.
+- [Wireframe](https://wireframe.cc/): Sketch the basic of the idea.
+- [Coolors.co](https://coolors.co/): Create Pallete.
 
 ---
 ## Testing
@@ -229,6 +232,13 @@ one warning in text area with the font imported: Imported style sheets are not c
 - The project was deployed to GitHub pages. 
 
 - The link can be found [here](https://juandavidc08.github.io/green-innovation-expo/index.html)
+* Go to the Settings tab of the GitHub repo.
+* On the left-hand sidebar, in the Code and automation section, select Pages.
+* Source should be'Deploy from Branch'.
+* Select Main branch.
+* Set folder to root.
+* Save
+
 
 ## Future improvements
 
