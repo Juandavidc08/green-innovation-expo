@@ -23,12 +23,32 @@
 </head>
 
 <body>
+    <header>
+        <!--Text logo-->
+        <a href="index.html">
+            <h1>Green Innovation </h1>
+        </a>
+        <!--Navbar with links to all pages-->
+        <input type="checkbox" id="nav-toggle" name="nav-toggle">
+        <label for="nav-toggle" class="nav-toggle-label"><i class="fa-solid fa-building-wheat fa-beat fa-xs"
+                style="color: #FEFAE0;"></i></label>
+        <nav>
+            <ul id="menu">
+                <li><a href="index.html" class="active" aria-label="Home Page">Home</a></li>
+                <li><a href="info.html" aria-label="Information Page">Info</a></li>
+                <li><a href="gallery.html" aria-label="Gallery Page">Gallery</a></li>
+                <li><a href="singup.html" aria-label="Sing-up">Sing-Up</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
     <div id="not-found">
         <h1>SORRY!!!</h1>
          <h2>404 NOT FOUND</h2> 
         <p>Green Innovation Exposition URL was not found on the server</p>
-        <i class="fa-solid fa-face-frown-open" style="color: #000000;"></i>
+        <i id="sadface" class="fa-solid fa-face-frown-open" style="color: #000000;"></i>
     </div>
+    </main>
     <footer>
         <!--Social networks links on the bottom of the screen-->
         <ul id="social-networks">
